@@ -36,7 +36,7 @@ Im a 11th grade student(senior highschooler)  trying to build various projects a
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/in/narayan-pathak-0889ab3b1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/linkedin.com/in/narayan-pathak-0889ab3b1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ### 📊 GitHub Stats
@@ -50,12 +50,6 @@ Im a 11th grade student(senior highschooler)  trying to build various projects a
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naran121x&bg_color=00000000&color=0068fa&line=0068fa&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
