@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Im a 11th grade student(senior highschooler)  trying to build various projects and want to make a strong portfolio.  Im currently learning python through CS50 course and is actively looking up for similar intersected people.
+Im a senior highschooler trying to build various projects and want to make a strong portfolio.  Im currently learning python and is actively looking up for similar interest people.
 
 🔭 &nbsp;I'm currently working on **Python projects and building my developer portfolio**  
 🌱 &nbsp;I'm currently learning **Python, C, HTML/CSS, and computer science fundamentals**  
@@ -27,10 +27,13 @@ Im a 11th grade student(senior highschooler)  trying to build various projects a
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
 </p>
 
 ### 🔗 Connect With Me
@@ -44,12 +47,6 @@ Im a 11th grade student(senior highschooler)  trying to build various projects a
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Naran121x&show_icons=true&theme=tokyonight&title_color=0068fa&icon_color=0068fa&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Naran121x&layout=compact&theme=tokyonight&title_color=0068fa&icon_color=0068fa&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naran121x&bg_color=00000000&color=0068fa&line=0068fa&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
